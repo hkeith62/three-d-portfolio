@@ -1,0 +1,24 @@
+body {
+    font-family: "Work Sans", sans-serif;
+     
+  }
+  .max-container{
+    margin-top:-60px;
+  }
+  .contact-form {
+    margin-top: -95px
+  }
+
+  .head-text-contact {
+   
+    
+    @apply bg-gradient-to-r from-[#00c6ff] to-[#0072ff] bg-clip-text text-transparent;
+    position: fixed;
+    width:100%;
+    margin-left: 10%;
+    margin-bottom: -50px;
+    font-size:42px;
+    font-family: Poppins;
+     
+  }
+    
