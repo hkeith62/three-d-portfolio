@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Keith</span>
         👋
         <br />
-        A Software Engineer from Philadelphia, PA.
+        An aspiring software engineer from Philadelphia, PA.
       </h1>
     );
 
@@ -37,7 +37,7 @@ const HomeInfo = ({ currentStage }) => {
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
-          Visit my portfolio
+          Visit my projects page
           <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
         </Link>
       </div>
