@@ -33,7 +33,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium text-center sm:text-xl'>
-          Completed several projects that demonstrate talent and skills. Curious about what I can contribute?
+          Completed several projects that demonstrate my unique talent and skills. Curious about what I can contribute?
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
