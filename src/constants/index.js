@@ -184,45 +184,46 @@ export const socialLinks = [
 
 export const projects = [
     {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'In-N-Out-Books',
+        description: 'Library catalog with favorite books and wish list using an API, angular material, and typescript to display information.',
+        link: 'https://hkeith62.github.io/in-n-out-books/',
+    },
+    {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Card Shuffler',
+        description: 'Pure javascript, html, and css are used in this card randomizer application.',
+        link: 'https://hkeith62.github.io/web-231/week-9/hall-card-game.html',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'GPA Calculator',
+        description: 'This app lets users calculatate the grade point average for selected classes and grades using Angular and Typescript.',
+        link: 'https://main.d2mtj77w4klmcq.amplifyapp.com/session/sign-in',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'Ecommerce Cart',
+        description: 'Basic ecommerce cart that lets users select, add, and view items in their cart.',
+        link: 'https://hkeith62.github.io/web-330/week-5/hall-bobs-auto-repair.html',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'Calorie Counter',
+        description: 'Another application the employs html, css, and javascript to allow users to find the number of calories in a food item chosen by the user.',
+        link: 'https://hkeith62.github.io/web-330/week-4/hall-calorie.html',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        name: 'Composer App',
+        description: 'Composer catalog that uses the async pipe to allow users to search for and access information from a given list of composers.',
+        link: 'https://hkeith62.github.io/enterprise-composer-app/composer-list',
     },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    }
+     
 ];
